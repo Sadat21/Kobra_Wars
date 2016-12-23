@@ -10,6 +10,7 @@
 
 void setup()                    //All functions that are called are found in "Setup_Functions" tab
 {
+  size(700,700);
   frameRate(120);              //Cycles of Draw per second.
   setup_size_variables();      //Function intializes kobra locations
   setup_images();              //Intializes image files

@@ -1,7 +1,7 @@
 //This function contains the screen size variables
 void setup_size_variables()
 {
-  size(700,700);      // Set's the size of the screen
+  //size(700,700);      // Set's the size of the screen
   background(0);      //Turns background black
   x = width/2 + size;    // initial x coordinate of Kobra 1
   y = height/2;          // Initial y coordinate of Kobra 1

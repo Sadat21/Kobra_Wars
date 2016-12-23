@@ -47,4 +47,3 @@ void error (int x, int y, int h, int v)        //Takes the x,y coordinates of ea
          
       }
 }  
-
